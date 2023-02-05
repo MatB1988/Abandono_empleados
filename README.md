@@ -1,4 +1,4 @@
-# Abandono_empleados
+# Abandono colaboradores
 
 Proyecto realizado en Python, donde se toma una base de datos de empleados de una organización y en base a los empleados que abandonaron la misma se plantea un modelo para la prediccion de futuras  fugas, con el costo que esto significaria para la misma. 
 
