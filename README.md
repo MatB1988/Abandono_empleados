@@ -1,9 +1,7 @@
 # Abandono colaboradores
 
-Proyecto realizado en Python, donde se toma una base de datos de empleados de una organización y en base a los empleados que abandonaron la misma se plantea un modelo para la prediccion de futuras  fugas, con el costo que esto significaria para la misma. 
+El proyecto de predicción de abandono de empleados utiliza un enfoque innovador y tecnológico para ayudar a las empresas a mantener a sus empleados valiosos. 
 
-El algoritmo a utilizar fue un DecisionTreeClassifier, el mismo es un algoritmo de aprendizaje supervisado que se utiliza principalmente en problemas de clasificación, como el que se plantea en el trabajo.
+Utiliz0 un modelo de aprendizaje automático basado en Python y un algoritmo de clasificación de DecisionTree para analizar datos de empleados que han abandonado la organización. Este modelo nos permite predecir con precisión qué empleados tienen más probabilidades de abandonar, lo que le permite a la empresa tomar medidas proactivas para retener a su equipo. 
 
-Tambien se realizo un pequeño Dashboard con el cual recursos humanos puedo utilizar la información para aplicar politicas que dismunuyan la fuga de los colabradores.
-
-En el siguiente link se puede interactuar con el Deshboard: https://public.tableau.com/app/profile/matias6358/viz/Proyecto_abandono_empleados/Dashboard2
+Además, hemos creado un dashboard interactivo para que los recursos humanos puedan visualizar y utilizar la información para aplicar políticas efectivas para reducir el abandono de colaboradores: https://public.tableau.com/app/profile/matias6358/viz/Proyecto_abandono_empleados/Dashboard2
